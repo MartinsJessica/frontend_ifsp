@@ -1,2 +1,2 @@
 # frontend_ifsp
-Reaact, JavaScript
+React, JavaScript
